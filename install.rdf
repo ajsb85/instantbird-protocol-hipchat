@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>prpl-hipchat@alexandersalas.name</em:id>
+		<em:unpack>true</em:unpack>
+		<em:name>HipChat Protocol</em:name>
+		<em:version>1.0</em:version>
+		<em:description>Assists to setup a chat account for HipChat.</em:description>
+		<em:creator>Alexander Salas</em:creator>
+		<em:translator>Fatma Youssef</em:translator>
+		<em:homepageURL>http://alexandersalas.name/</em:homepageURL>
+		<em:iconURL>chrome://prpl-hipchat/skin/icon48.png</em:iconURL>
+		<em:icon64URL>chrome://prpl-hipchat/skin/icon64.png</em:icon64URL>
+		<em:targetApplication>
+			<Description>
+				<em:id>{33cb9019-c295-46dd-be21-8c4936574bee}</em:id>
+				<em:minVersion>0.2a1</em:minVersion>
+				<em:maxVersion>1.6</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+	</Description>
+</RDF>

@@ -1,0 +1,5 @@
+component {3a764d60-6854-11e3-949a-0800200c9a66} components/hcOverrideProtocols.js
+contract @instantbird.org/purple/hipchat;1 {3a764d60-6854-11e3-949a-0800200c9a66}
+category im-protocol-plugin prpl-hipchat @instantbird.org/purple/hipchat;1
+
+skin prpl-hipchat     classic/1.0 chrome/skin/
