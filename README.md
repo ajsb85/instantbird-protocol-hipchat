@@ -18,3 +18,7 @@ ToDo:
 ```
 
 - [ ] this is an incomplete item
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexsalas/instantbird-protocol-hipchat/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
